@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Eduardo Faria Cabrera",
+    "label": "Artificial Intelligence Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "eduardofcabrera@usp.br",
+    "phone": "+55 (43) 991352211",
+    "url": "https://github.com/eduardofcabrera",
+    "summary": "I'm passionate about technology and science. I work in artificial intelligence development and research. I am currently doing an internship program of excellence at EPFL, Switzerland, in the context of adaptive learning and statistics. In addition, I am an Electrical Engineering student at the Escola Politécnica da USP.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +24,68 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Adaptive Systems Laboratory - EPFL (Lausanne, Switzerland)",
+      "position": "Research Intern - Artificial Intelligence",
+      "url": "https://eee.epfl.ch/e3program-at-a-glance/",
+      "startDate": "2023-07",
+      "endDate": "Present",
+      "summary": "I was accepted into the EPFL Engineering Excellence Program, which offers an intensive research training opportunity for students for 3 months in Switzerland. I am part of the Adaptive System Lab where I perform various simulations in the context of distributed statistical learning, optimization and deep learning. Being part of one of the world's leading research centers is making me develop my technical and soft skills and see how new technologies are developed.",
       "highlights": [
-        "Relativity"
+        "Research",
+        "Deep Learning",
+        "Adaptive Learning",
+        "Machine Learning",
+        "Statistics",
+        "English"
+      ]
+    },
+    {
+      "name": "Numerical Offshore Tank - Escola Politécnica da USP (São Paulo, Brazil) ",
+      "position": "Research Intern - Artificial Intelligence",
+      "url": "https://www.tpn.usp.br/simulador/",
+      "startDate": "2022-04",
+      "endDate": "2023-07",
+      "summary": "For over a year I worked as a research intern in artificial intelligence at the Laboratory of Intelligent Techniques at USP's Polytechnic School in conjunction with the Numerical Test Tank. During this time, I was involved in the development of a project for Petrobras for a deep learning system to detect faults in systems on its oil platforms. My main tasks were developing and applying a deep learning model using recurrent neural networks and graph neural networks, as well as developing software with performance and memory requirements. As a result, I was able to develop a solid knowledge of many deep learning techniques as well as learning the main frameworks for developing AI systems such as PyTorch and TensorFlow.",
+      "highlights": [
+        "Research",
+        "Deep Learning",
+        "Adaptive Learning",
+        "Machine Learning",
+        "Statistics",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Rocket Chat (Remote)",
+      "position": "Summer Intern",
+      "url": "https://www.rocket.chat/open-source-communications-platform?utm_device=c&utm_term=rocket%20chat&utm_campaign=brand_sr_br_generic&utm_source=adwords&utm_medium=ppc&hsa_acc=7547430168&hsa_cam=15850668853&hsa_grp=130981703023&hsa_ad=575426984803&hsa_src=g&hsa_tgt=kwd-314268247829&hsa_kw=rocket%20chat&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBr0X3XtkZOY8O4zMkjUdTKIYHz-bs2uzBKLYe6LCozkHtr8V2aJ0ZBoCJ_wQAvD_BwE",
+      "startDate": "2022-01",
+      "endDate": "2022-04",
+      "summary": "In the summer of 2022, I interned for 2 months at Startup Rocket.Chat, a chat service provider for team collaboration. During this period I was able to insert myself in an innovation ecosystem and help in the development of the web system using Javascript, Typescript and MongoDB. Among my functions, the main ones were: developing endpoints, building new features and correcting any errors in the system. Also, Rocket.Chat is an international company, so I got an experience of daily communication in English and contact with people from all over the world.",
+      "highlights": [
+        "Back-End Web Development",
+        "Typescript",
+        "JavaScript"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "Escola Politécnica da Universidade de São Paulo",
+      "url": "https://www5.usp.br/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020-01",
+      "endDate": "Present",
+      "score": "8.7 GPA"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Paper Award in BRACIS 2023",
+      "date": "2023",
+      "awarder": "BRACIS (Brazilian Conference on Intelligent Systems)"
     }
   ],
   "certificates": [],
@@ -63,12 +93,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediary"
     }
   ],
   "interests": [],
